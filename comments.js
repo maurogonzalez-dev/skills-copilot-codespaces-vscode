@@ -1,5 +1,5 @@
 // create web server
-var http = require('http');
+/* var http = require('http');
 // create file system
 var fs = require('fs');
 // create url
@@ -59,4 +59,4 @@ http.createServer(function (req, res) {
     }
 }).listen(3000, function () {
     console.log('server is running on port 3000');
-});
+}); */
